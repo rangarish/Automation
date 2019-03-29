@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Everjobs Suite">
+ 
+ <test name="Page Object Model Project">
+ <classes>
+ <class name="tests.TestBase" />
+ <class name="tests.EBLoginTest" /> 
+ <class name="tests.EBPCatalog" /> 
+ 
+ </classes> 
+ </test> 
+ 
+</suite> <!-- Suite -->
