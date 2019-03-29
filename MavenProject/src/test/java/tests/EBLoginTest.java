@@ -15,8 +15,8 @@ public class EBLoginTest extends TestBase{
 
 			//driver.get("https://www.facebook.com");
 			EBLoginPage loginpage = PageFactory.initElements(driver, EBLoginPage.class);
-			loginpage.setEmail("Abaldwin");
-			loginpage.setPassword("Aptify50");
+			loginpage.setEmail("abc@gmail.com");
+			loginpage.setPassword("abc@123");
 			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 			loginpage.clickOnLoginButton();
 			System.out.println("Sucessfully logged in");
