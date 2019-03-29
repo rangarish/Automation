@@ -1,5 +1,5 @@
 # Automation
-This is the Automation project using maven for any Ebusiness web site
+This is the Automation project using maven for any eCommerce platform
 
 
 I have used Page Object Model
