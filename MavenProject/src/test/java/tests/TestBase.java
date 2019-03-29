@@ -22,7 +22,7 @@ public class TestBase {
                 
          driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
  //To open Url
-                driver.get("https://fullsetup1.aptify.com/UI/Login.html");
+                driver.get("https://abc.abc.com");
  
  }
  
