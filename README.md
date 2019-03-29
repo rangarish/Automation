@@ -1,3 +1,3 @@
 # Automation
-this is automation
-this is my first checkin
+This the Automation project using maven
+This is based Page Object Model
